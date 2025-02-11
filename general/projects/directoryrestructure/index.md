@@ -59,7 +59,7 @@ Other future benefits are discussed below.
 
 The initial change for this issue is simply to move all current code into a new `public` directory.
 
-This initial change can be summarised wi th the following change:
+This initial change can be summarised with the following change:
 
 ```bash title="Move all content into the new 'public' directory"
 rm -rf public
